@@ -1,1 +1,1 @@
-# algoritmo
+# Trabajamos en un software basico donde se implementa la implementacion de conexion de archivos php a base de datos realcional Mysql, donde la importancia es que se vea reflejado en el home.php ciertas consultas 
